@@ -13,6 +13,8 @@ To run the script (on Linux distros), follow these steps:
      $python3 arp_spoof.py 192.168.1.200 192.168.1.1 --verbose
 
 note: the script should run under root privileges using sudo -s as the super-user.  
+This script was created for educational purpose only. use at your own risk.
+
 
 
 
